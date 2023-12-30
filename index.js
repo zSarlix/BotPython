@@ -50,6 +50,6 @@ client.on("ready", async () => {
     setInterval(fetchDataAndSendMessage, 5 * 60 * 1000);
 });
 
-client.login("MTE5MDY5NTQ5NDE1NDk3NzI4MA.GZcEe4.utb2Ylg-2-Rer9z_q6n4YDKMNlRgnkri2bjEDY");
+client.login("TOKEN");
 
 
